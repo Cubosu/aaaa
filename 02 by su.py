@@ -9,4 +9,4 @@ else:
 	webbrowser.open(url, new=0, autoraise=True)
 	print(argv[1])
 
-
+print("apple")
